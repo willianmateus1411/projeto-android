@@ -70,7 +70,6 @@ nav > a{
     padding: 10px;
     border-radius: 5px;
     transition-duration: .3s;
-    max-width: 320px;
 }
 
 nav > a:hover{
